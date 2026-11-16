@@ -1,0 +1,87 @@
+No âmbito das Ciências Forenses, os peritos tratam todas as amostras como evidências. Após a coleta, eles realizam os procedimentos técnicos necessários e apresentam os resultados em laudos ou pareceres periciais. Esses documentos descrevem as análises executadas e as conclusões obtidas sobre a evidência examinada.
+
+Os profissionais devem manusear as amostras com rigor técnico para preservar sua integridade. Além disso, precisam registrar todas as etapas de manipulação na Cadeia de Custódia. Esse procedimento assegura a rastreabilidade da evidência durante toda a investigação.
+
+A Cadeia de Custódia reúne os procedimentos destinados a preservar e documentar o histórico cronológico do vestígio. Seu registro permite acompanhar a posse, o transporte, o armazenamento, o processamento e o descarte da evidência. A documentação deve começar no momento da coleta ou da aquisição do vestígio. Dessa forma, torna-se possível identificar quem teve acesso à evidência, quando ocorreu o manuseio e quais procedimentos foram executados.
+
+Cadeia de Custódia em Evidências Digitais
+
+As evidências digitais apresentam características próprias. Elas são voláteis e podem sofrer alterações acidentais ou intencionais em qualquer etapa do processo pericial. Por esse motivo, os profissionais devem adotar procedimentos específicos para preservar sua autenticidade e integridade.
+
+Nesse contexto, a ABNT NBR ISO/IEC 27037:2013 estabelece diretrizes para a identificação, coleta, aquisição e preservação de evidências digitais. A norma padroniza os procedimentos periciais e fortalece a admissibilidade, a força probatória e a relevância das evidências em processos judiciais, administrativos e disciplinares.
+
+Além disso, os procedimentos previstos pela norma devem garantir a recuperação integral das informações probatórias sempre que necessário. Da mesma forma, eles precisam impedir qualquer alteração na evidência original durante seu tratamento. Assim, preservam a confiabilidade dos resultados apresentados no laudo pericial.
+
+Pacote Anticrime – Lei nº 13.964/2019
+
+A Lei nº 13.964/2019, conhecida como Pacote Anticrime, promoveu importantes alterações na legislação penal e processual penal brasileira. Entre seus objetivos estão o fortalecimento do combate ao crime organizado, à criminalidade violenta e aos crimes relacionados à corrupção.
+
+Além disso, a legislação consolidou a Cadeia de Custódia como requisito essencial para a validade da prova pericial. O texto legal estabelece procedimentos que começam com o reconhecimento e o isolamento do local dos fatos, passam pela coleta, acondicionamento, transporte, processamento e armazenamento e terminam no descarte da evidência.
+
+Consequentemente, os peritos criminais, médicos-legistas e demais profissionais responsáveis devem cumprir rigorosamente essas etapas. O correto registro da Cadeia de Custódia preserva a autenticidade da prova e reduz o risco de questionamentos durante o processo judicial.
+
+Cadeia de Custódia na Forense Digital
+
+A evidência digital exige cuidados adicionais devido à sua natureza. Arquivos eletrônicos podem ser alterados, copiados ou excluídos em poucos segundos. Dessa forma, qualquer intervenção inadequada pode comprometer a confiabilidade da prova.
+
+Para reduzir esse risco, os profissionais devem documentar todas as etapas da aquisição, análise, armazenamento e apresentação da evidência. Além disso, essa documentação permite identificar cada pessoa que teve contato com o material e verificar todas as operações realizadas durante a investigação.
+
+Registro de Dispositivos Físicos
+
+Durante o primeiro contato com o dispositivo, o perito deve registrar detalhadamente suas características na Cadeia de Custódia. Essa descrição facilita a identificação do equipamento e evita dúvidas sobre sua autenticidade.
+
+No caso de equipamentos computacionais, recomenda-se registrar a quantidade, o tipo do dispositivo, a marca, o modelo, o número de série e o país de fabricação. Além disso, em dispositivos como discos rígidos e pen drives, também é importante informar a capacidade de armazenamento.
+
+Desktops e Notebooks: As identificações geralmente encontram-se em etiquetas coladas na parte exterior, tais como: fabricante, marca, modelo, número de série, país de fabricação.
+Disco Rígido: Identificação geralmente impressa em etiqueta em sua parte externa ao equipamento, tais como: fabricante, marca, modelo, número de série, firmware e capacidade nominal.
+Cartão de Memória: Identificação geralmente impressa em etiqueta em sua parte externa ao equipamento, tais como, fabricante, marca, modelo, número de série, e capacidade nominal.
+Pen drive: Identificação geralmente impressa em etiqueta em sua parte externa ao equipamento, tais como, fabricante, marca, modelo, número de série, e capacidade nominal.
+Tablets e Smartphones: Deve-se constar dados como fabricante, marca, modelo, número de série, capacidade de armazenamento interno e IMEI, bem como, quando presentes, a descrição de eventuais avarias no dispositivo, como “tela quebrada”.
+Scanners e Impressoras: Havendo suspeitas de impressão de documentos, cédulas ou qualquer outro material relacionado a investigação, scanners e impressoras devem ser apreendidos para eventual confronto. Todavia, a apreensão apenas deve ser realizada se houver a necessidade de provar que tais equipamentos foram utilizados para a realização de atividades ilícitas. Inserido a este contexto, deve-se constar na Cadeia de Custódia informações como: fabricante, marca, modelo, número de série. Caso a apreensão seja realizada, recomenda-se apreender, também cabos de energia e de dados, pois se for necessário ligar tais equipamentos, pode ser que o laboratório forense não
+
+Por fim, em equipamentos utilizados por empresas ou órgãos públicos, também é importante registrar informações como número de patrimônio, etiquetas internas, lacres de segurança e demais identificadores institucionais.
+
+Registro de Evidências Lógicas
+
+Além dos dispositivos físicos, a Cadeia de Custódia deve contemplar as evidências digitais obtidas durante a investigação. Entre elas destacam-se imagens forenses de discos, aquisições de memória RAM, arquivos eletrônicos e dados provenientes de redes sociais, aplicativos de mensagens, serviços de armazenamento em nuvem e outros ambientes digitais.
+
+Para cada evidência adquirida, recomenda-se registrar:
+
+Data/Hora: Data/Hora em que foram geradas;
+Criada Por: Nome do perito que gerou as imagens a partir das evidências
+Método Usado: Qual o método de geração das imagens;
+Nome da Imagem: nome que o perito nomeou a imagem;
+Partes: Quantas partes esta imagem possui;
+Hash: Hash gerado na conclusão da geração da imagem;
+
+Informações da Imagem Forense
+
+Ao gerar uma imagem forense, o perito deve registrar, no mínimo, as seguintes informações:
+
+Data e horário da aquisição;
+Nome do perito responsável;
+Método utilizado na aquisição;
+Nome atribuído à imagem;
+Quantidade de partes geradas, quando houver fragmentação;
+Algoritmo de hash empregado;
+Valor do hash obtido após a conclusão da aquisição.
+
+Esses registros comprovam a autenticidade da imagem forense. Além disso, garantem sua rastreabilidade durante todas as fases da investigação e do processo judicial.
+
+Compartilhamento do Modelo de Cadeia de Custódia
+
+Com o objetivo de contribuir para a padronização e o aprimoramento dos procedimentos relacionados às evidências digitais, compartilho o modelo de Cadeia de Custódia que utilizo em meus trabalhos.
+
+CadeiadeCustódiaDescarregar
+
+Elaborei este documento considerando diferentes possibilidades de coleta, aquisição, manuseio e preservação de evidências digitais, buscando estabelecer um padrão que seja rigoroso, organizado e, ao mesmo tempo, adaptável à realidade de cada investigação.
+
+O modelo pode ser utilizado como referência e ajustado conforme a natureza da evidência, os procedimentos adotados e as particularidades de cada caso, contribuindo para maior rastreabilidade, transparência e confiabilidade no tratamento da prova digital.
+
+Conclusão
+
+Qualquer falha nesse processo pode comprometer parcial ou totalmente a validade da prova produzida. Por esse motivo, os profissionais não devem limitar sua atuação ao uso de equipamentos modernos ou softwares especializados. Eles também precisam cumprir rigorosamente todos os procedimentos previstos na legislação e nas normas técnicas.
+
+Além da responsabilidade jurídica, os profissionais assumem um compromisso ético com a produção da prova pericial. Afinal, o resultado do exame pode influenciar diretamente as decisões judiciais e afetar os direitos das vítimas, dos investigados e de toda a sociedade.
+
+Portanto, a observância rigorosa da Cadeia de Custódia fortalece a credibilidade da perícia, aumenta a confiabilidade das evidências digitais e contribui para a efetiva realização da justiça.
